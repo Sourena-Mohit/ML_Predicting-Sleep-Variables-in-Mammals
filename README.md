@@ -11,3 +11,6 @@ I may do some more on work on this over the weekend, if yes, I will send it arou
 Bon week-end,
 
 Brandt
+
+09/01/24 - Brandt I've created a new verision my my notebook, sleep_study_v.03.ipynb, data sourice --> cleaned_sleep_data_v.03.xlsx, env-->brandt_sleep_v03.yml   
+Note, here I have changed all the brain weights to Kg from gram and removed the species with zero brain weight and I have performed a regression analysis. 
