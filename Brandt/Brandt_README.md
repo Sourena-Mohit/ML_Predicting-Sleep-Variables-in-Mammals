@@ -17,3 +17,6 @@ Note, here I have changed all the brain weights to Kg from gram and removed the 
 
 23/01 - Reverted back to orginal work and code, adding Residuals Analysis to confirm that a non-linear relationship does not exist, i.e., bigger animals sleep less
 Order Cingulata, armidillos, are an outlier in that they sleep a lot for their size, confirmed in the literature, but no reason as for 'why'
+
+Note: I've disabled warnings on the notebook as I started recieving popups with regards to future changes to libraries which are not relevant / effect
+functionality
