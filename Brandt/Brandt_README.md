@@ -20,3 +20,6 @@ Order Cingulata, armidillos, are an outlier in that they sleep a lot for their s
 
 Note: I've disabled warnings on the notebook as I started recieving popups with regards to future changes to libraries which are not relevant / effect
 functionality
+
+28/02/24 - Final model code, data and YAML loaded into my folder, sleep_study_Brandt_Final.ipynb, cleaned_sleep_data_Brandt_Final.xlms, sleep_study_Brandt_Final.ipynb
+
