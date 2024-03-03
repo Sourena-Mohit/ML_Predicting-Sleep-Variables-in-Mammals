@@ -20,13 +20,16 @@ It is recommended to use a virtual environment.
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
-3. Install Required Packages: 
+3. Install Required Packages:
+   
 pip install -r requirements.txt
 
 4. Running the Code:
+
 python Group3_Project3.py
 
 License
+
 GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
 
 Authors and Acknowledgment
