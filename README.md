@@ -32,10 +32,12 @@ GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
 Authors and Acknowledgment
 
 Team Lead: Mohamed Jouhari, https://github.com/joemoh02
+
 Team Members: Hugo Beffeyte, Kawtar Abidine, Sourena Mohit Tabatabaie, Brandt Olson
 
 
 Project Status
 
-This project was submitted on 03/03/2024 for review by staff at the Data ScienceTech Institute https://www.datasciencetech.institute/
+This student project was submitted on 03/03/2024 for review by staff 
+at the Data ScienceTech Institute https://www.datasciencetech.institute/
 
