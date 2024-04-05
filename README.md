@@ -11,7 +11,7 @@ To run this project on a local machine, follow these steps:
 
 1.  Clone the Repository: 
 
-git clone https://github.com/Sourena-Mohit-DSTI/
+git clone https://github.com/Sourena-Mohit/
 cd ML_Project3_Group3
 
 2. Set up a Python Environment
